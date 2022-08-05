@@ -13,14 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     FirebaseAuth auth;
 
-
-
     private Button getRegistrarse;
-
-
-
-
-
     private Button registrarse;
     private Button cerrarSesion;
 
@@ -113,6 +106,8 @@ public class MainActivity extends AppCompatActivity {
     public void irgps(View view){
         Intent i = new Intent(this, Gps.class);
         startActivity(i);
+    }
+    public void something(View viwe){
     }
 
     public void irChats(View view){

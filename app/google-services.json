@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593878008642",
+    "project_id": "amaliacocina01",
+    "storage_bucket": "amaliacocina01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593878008642:android:10ad13f60b911aaeb37edb",
+        "android_client_info": {
+          "package_name": "com.example.amaliacocina_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593878008642-994almdsm2cut7d332chhtrj4hv4qm9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_8Rue-gtS_GS-vrNijRYWu_IsRtzfD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593878008642-994almdsm2cut7d332chhtrj4hv4qm9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

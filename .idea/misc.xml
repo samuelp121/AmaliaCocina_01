@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/drawable/border_ingresar.xml" value="0.2203125" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_bebidas.xml" value="0.19947916666666668" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_carrito_compras.xml" value="0.1814814814814815" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_chats.xml" value="0.2" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_cocteles.xml" value="0.19947916666666668" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_cupones.xml" value="0.25" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_gps.xml" value="0.1814814814814815" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_identificarse.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_iniciar_sesion.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_jps.xml" value="0.1814814814814815" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_list_pedidos.xml" value="0.1814814814814815" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_lomo_saltado.xml" value="0.19947916666666668" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_notificaciones.xml" value="0.1814814814814815" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_pant_perfil.xml" value="0.16898148148148148" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_parrillas.xml" value="0.19947916666666668" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_parrillas_fuego.xml" value="0.2" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_pedidos.xml" value="0.18" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_pollo.xml" value="0.22" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_pollo_promociones.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_registro.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/activity_vista_administrador.xml" value="0.1814814814814815" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/fragment_first.xml" value="0.19947916666666668" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/layout/fragment_second.xml" value="0.19947916666666668" />
+        <entry key="..\:/Android studio/AmaliaCocina_01/app/src/main/res/menu/menu_navigation.xml" value="0.1814814814814815" />
+        <entry key="..\:/Android_studio/AmaliaCocina_01/app/src/main/res/layout/activity_main.xml" value="0.1814814814814815" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

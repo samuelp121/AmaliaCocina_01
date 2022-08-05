@@ -13,14 +13,16 @@ public class MainActivity extends AppCompatActivity {
 
     FirebaseAuth auth;
 
+
+
+    private Button getRegistrarse;
+
+
+
+
+
     private Button registrarse;
     private Button cerrarSesion;
-
-
-
-
-
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
